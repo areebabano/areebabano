@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋
+I'm Areeba Bano, a passionate Web Developer and GIAIC student with a strong foundation in HTML, CSS, JavaScript, TypeScript, and Tailwind CSS. Currently, I am enhancing my expertise in Next.js as part of my continuous learning journey.
 
-<!--
-**areebabano/areebabano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on:
+Personal Finance Manager (CLI tool in TypeScript) 💼
+Web Portfolio (Showcasing my web development skills) 🌐
+🌱 I'm learning:
+Next.js (advanced concepts) 🚀
+Cloud Technologies ☁️
+💬 Ask me about:
+Web Development, JavaScript, TypeScript, Next.js, Tailwind CSS, and Cloud 🌐
+📫 Reach me:
+LinkedIn 🔗
+GitHub 🐙
+⚡ Fun fact:
+I love solving coding challenges and building innovative projects! 🎉
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
