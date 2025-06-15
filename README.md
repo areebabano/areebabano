@@ -4,8 +4,9 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=500&color=61dafb&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer+%7C+GIAIC+Senior+Student+%7C+Trainer+%7C+Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=500&color=61dafb&center=true&vCenter=true&width=900&lines=Passionate+Web+Developer+%7C+GIAIC+Senior+Student+%7C+Trainer+%7C+Freelancer" alt="Typing SVG" />
 </h3>
+
 
 <!-- Coding GIF -->
 <p align="center">
