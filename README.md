@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Areeba Bano</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Web+Developer+%7C+GIAIC+Senior+Student;🎓+Trainer+%7C+Freelancer+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Web+Developer+%7C+Trainer;🎓+GIAIC+Senior+Student+%7C+Freelancer" alt="Typing Animation" />
 </h3>
 
 <p align="center">
-  <img src="https://lottie.host/f8fa1e2c-45a7-4a30-818c-1b8e23766f1e/2uEcq2gP8Q.gif" width="250" alt="Animated Developer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated Coder" />
 </p>
 
 ---
@@ -71,22 +71,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebabano&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🐍 GitHub Activity Snake
-
-<p align="center">
-  <img src="https://github.com/areebabano/areebabano/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areebabano&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
 ---
