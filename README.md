@@ -1,8 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Areeba+Bano;Web+Developer+%7C+Trainer+%7C+Freelancer+%7C+GIAIC+Senior+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Areeba+Bano;Web+Developer+%7C+Trainer+%7C+Freelancer+%7C+GIAIC+Senior+Student" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Passionate Web Developer | GIAIC Senior Student | Trainer | Freelancer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=500&color=61dafb&center=true&vCenter=true&width=600&lines=Passionate+Web+Developer+%7C+GIAIC+Senior+Student+%7C+Trainer+%7C+Freelancer" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coding gif" />
@@ -10,7 +12,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 About Me <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="22" alt="sparkle" />
 
 - 🎓 Senior Student at **GIAIC** – Governor’s Certified Cloud & Gen AI Engineer Program  
 - 🧑‍🏫 **Web Development Trainer** at *IUSS* and *IT Tower Varsity*  
@@ -19,7 +21,7 @@
 
 ---
 
-### 🔭 Currently Working On
+### 🔭 Currently Working On <img src="https://media.giphy.com/media/xUOxfjvB98kMTB4v4I/giphy.gif" width="22" alt="working animation" />
 
 - 💼 **Personal Finance Manager** – A full-featured CLI tool built in TypeScript  
 - 🌐 **My Web Portfolio** – A showcase of projects, blogs, and my professional journey  
@@ -27,14 +29,14 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="22" alt="growth animation" />
 
 - 🚀 **Advanced Next.js (App Router, Server Actions, etc.)**  
 - ☁️ **Cloud Technologies** & **AI-powered Applications**
 
 ---
 
-### 💬 Ask Me About
+### 💬 Ask Me About <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="22" alt="chat animation" />
 
 - `Frontend Development` – HTML, CSS, Tailwind CSS  
 - `Modern JavaScript & TypeScript`  
@@ -56,9 +58,9 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:areebabano.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/areebabano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/areebabano" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:areebabano.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/areebabano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/areebabano" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -78,7 +80,7 @@
 ### 🐍 GitHub Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/areebabano">
+  <a href="https://github.com/areebabano" target="_blank">
     <img alt="GitHub Contributions" src="https://activity-graph.herokuapp.com/graph?username=areebabano&theme=react-dark&hide_border=true" />
   </a>
 </p>
@@ -88,12 +90,12 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=areebabano&theme=dracula&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=areebabano&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5q/giphy.gif" width="22" alt="fun fact sparkle" />
 
 > I love solving real-world problems, teaching others, and building tools that make life easier!  
 > Every project I take on is a step toward turning curiosity into **innovation**.
