@@ -1,11 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Areeba Bano</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Web+Developer+%7C+Trainer;🎓+GIAIC+Senior+Student+%7C+Freelancer" alt="Typing Animation" />
-</h3>
+<h3 align="center">🚀 Passionate Web Developer | GIAIC Senior Student | Trainer | Freelancer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated Coder" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
 </p>
 
 ---
@@ -47,15 +44,15 @@
 
 ### 🛠️ Tools & Tech
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,python,streamlit,git,github,figma,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,python,streamlit,git,github,figma" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:areebabano.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/areebabano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/areebabano" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -71,6 +68,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebabano&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://github.com/areebabano/areebabano/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=areebabano&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
 ---
