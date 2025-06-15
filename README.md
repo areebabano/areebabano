@@ -75,10 +75,12 @@
 
 ---
 
-### 🐍 GitHub Activity Snake
+### 🐍 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/areebabano/areebabano/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <a href="https://github.com/areebabano">
+    <img alt="GitHub Contributions" src="https://activity-graph.herokuapp.com/graph?username=areebabano&theme=react-dark&hide_border=true" />
+  </a>
 </p>
 
 ---
