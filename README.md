@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Areeba Bano</h1>
-<h3 align="center">🚀 Passionate Web Developer | GIAIC Senior Student | Trainer | Freelancer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Passionate+Web+Developer;GIAIC+Senior+Student+%7C+Trainer+%7C+Freelancer" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
@@ -44,7 +46,7 @@
 
 ### 🛠️ Tools & Tech
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,python,streamlit,git,github,figma" />
 </p>
 
@@ -52,7 +54,7 @@
 
 ### 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:areebabano.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/areebabano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/areebabano" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
