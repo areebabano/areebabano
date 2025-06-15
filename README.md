@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Areeba+Bano;Web+Developer+%7C+Trainer+%7C+Freelancer+%7C+GIAIC+Senior+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Areeba+Bano;Web+Developer+%7C+Trainer+%7C+Freelancer+%7C+GIAIC+Senior+Student" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Passionate Web Developer | GIAIC Senior Student | Trainer | Freelancer</h3>
