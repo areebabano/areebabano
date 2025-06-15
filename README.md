@@ -1,67 +1,98 @@
-<!-- Profile Banner -->
+<h1 align="center">Hi there 👋, I'm Areeba Bano</h1>
+<h3 align="center">🚀 Passionate Web Developer | GIAIC Senior Student | Trainer | Freelancer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+Areeba+Bano!;Web+Developer+%7C+Trainer+%7C+Freelancer+%7C+AI+Explorer;Building+Modern+Web+Apps+%26+Smart+AI+Tools..." />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Senior Student at **GIAIC** – Governor’s Certified Cloud & Gen AI Engineer Program  
+- 🧑‍🏫 **Web Development Trainer** at *IUSS* and *IT Tower Varsity*  
+- 👩‍💼 **Freelancer** working with clients globally on full-stack projects  
+- 🌐 Tech Stack: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Python`, `Tailwind CSS`, `Next.js`, `React.js`, `Node.js`, `Streamlit`
+
+---
+
+### 🔭 Currently Working On
+
+- 💼 **Personal Finance Manager** – A full-featured CLI tool built in TypeScript  
+- 🌐 **My Web Portfolio** – A showcase of projects, blogs, and my professional journey  
+- 🤖 Exploring **Agentic AI** and building intelligent assistants with tools like Chainlit
+
+---
+
+### 🌱 Currently Learning
+
+- 🚀 **Advanced Next.js (App Router, Server Actions, etc.)**  
+- ☁️ **Cloud Technologies** & **AI-powered Applications**
+
+---
+
+### 💬 Ask Me About
+
+- `Frontend Development` – HTML, CSS, Tailwind CSS  
+- `Modern JavaScript & TypeScript`  
+- `Frameworks` – Next.js, React.js  
+- `Backend with Node.js`  
+- `Python for Web (Streamlit)`  
+- `AI/LLMs + Agentic Tools (Chainlit, Gemini)`  
+
+---
+
+### 🛠️ Tools & Tech
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,python,streamlit,git,github,figma" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:areebabano.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/areebabano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/areebabano" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=areebabano&show_icons=true&theme=radical" alt="Areeba's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="280"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebabano&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### 🐍 GitHub Activity Snake
 
-Hi, I'm **Areeba Bano** – a passionate **Web Developer**, **Freelancer**, **Trainer**, and **GIAIC Senior Student** from Pakistan.
-
-- 👩‍🏫 Currently teaching Web Development at **IUSS** and **IT Tower Varsity**
-- 💼 Working with global clients as a **freelancer**
-- 💡 Exploring cutting-edge technologies like **Agentic AI**, **Chainlit**, and **LangChain**
-- 🎯 Focused on building practical tools, solving real-world problems, and uplifting others through teaching
+<p align="center">
+  <img src="https://github.com/areebabano/areebabano/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,python,streamlit,git,github,vercel,firebase,figma,vscode" />
-</div>
-
----
-
-## 📚 Currently Learning
-
-- ⚙️ **Next.js 14 Advanced Features** (App Router, Server Actions, SEO)
-- ☁️ **Cloud & Gen AI** (LLMs, AI Agents)
-- 🤖 **Streamlit**, **Chainlit**, and **Agentic AI workflows**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=areebabano&theme=dracula&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-## 🔭 Ongoing Projects
+### ⚡ Fun Fact
 
-- 💼 `Personal Finance Manager (CLI)` – TypeScript-based tool for budgeting and tracking
-- 🌐 `Web Portfolio` – Interactive personal portfolio in React + Tailwind
-- 🤖 AI + LLM demos with **Chainlit** and **Gemini API**
+> I love solving real-world problems, teaching others, and building tools that make life easier!  
+> Every project I take on is a step toward turning curiosity into **innovation**.
 
 ---
 
-## 💬 Ask Me About
-
-```ts
-Frontend:    HTML · CSS · JavaScript · TypeScript · Tailwind · React · Next.js
-Backend:     Node.js · Express.js · Firebase
-Tools:       Git · GitHub · Vercel · Figma · Canva
-AI/Cloud:    Python · Streamlit · Chainlit · LLMs
-Soft Skills: Teaching · Mentorship · Freelancing
-📫 Let's Connect
-<p align="center"> <a href="mailto:areebabano.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/areebabano" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/areebabano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=areebabano&show_icons=true&theme=gruvbox" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebabano&layout=compact&theme=gruvbox" /> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/areebabano/areebabano/blob/output/github-contribution-grid-snake.svg" /> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=areebabano&theme=darkhub&no-frame=true&margin-w=10" /> </p>
-⚡ Fun Fact
-I love sharing knowledge, solving real-world problems with code, and exploring the future with AI.
-Let's build something meaningful — together!
-
-<p align="center">💖 Thanks for visiting! — <strong>Let’s connect, collaborate, and create.</strong> 💻🌍</p> ```
+<p align="center">✨ Thanks for visiting my GitHub profile – let's build something amazing together! ✨</p>
