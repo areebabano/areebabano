@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Areeba Bano</h1>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Passionate+Web+Developer;GIAIC+Senior+Student+%7C+Trainer+%7C+Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Web+Developer+%7C+GIAIC+Senior+Student;🎓+Trainer+%7C+Freelancer+%7C+Tech+Explorer" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif" />
+  <img src="https://lottie.host/f8fa1e2c-45a7-4a30-818c-1b8e23766f1e/2uEcq2gP8Q.gif" width="250" alt="Animated Developer" />
 </p>
 
 ---
@@ -47,7 +48,7 @@
 ### 🛠️ Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,python,streamlit,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,next,nodejs,python,streamlit,git,github,figma,vscode" />
 </p>
 
 ---
