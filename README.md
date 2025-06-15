@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Areeba+Bano;Web+Developer+%7C+Trainer+%7C+Freelancer+%7C+GIAIC+Senior+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Areeba+Bano;Web+Developer+%7C+Trainer+%7C+Freelancer+%7C+GIAIC+Senior+Student" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Passionate Web Developer | GIAIC Senior Student | Trainer | Freelancer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="270" alt="Animated coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coding gif" />
 </p>
 
 ---
